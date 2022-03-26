@@ -1,5 +1,6 @@
 # Ignored folders
 x64/
+.vs/
 SamplePics/
 SampleGUI/x64
 
