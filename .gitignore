@@ -1,8 +1,8 @@
 # Ignored folders
 x64/
-.vs/
 SamplePics/
 SampleGUI/x64
+/.vs
 
 # Ignored files
 *.code-workspace
